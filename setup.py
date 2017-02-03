@@ -8,7 +8,7 @@ install_requires = [
 
 setup(
     name='xgboostwithwarmstart',
-    version="0.1.1",
+    version="0.1.0",
     description='XGBoost can warm start !!!!',
     long_description=("See `github <'https://github.com/SoluMilken/xgboostwithwarmstart'>`_ "
                       "for more information."),
